@@ -8,7 +8,6 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raihanrifandi.raihanrifandi)
 
 <!-- Body -->
-
 ## 📌 Introduction
 Programmer focusing on web development, utilizing various tools, frameworks, and libraries for both front-end and back-end. I pay attention to every little detail in order to create top-notch-quality products. 
 
@@ -17,3 +16,10 @@ Programmer focusing on web development, utilizing various tools, frameworks, and
 - 🌟 I have a deeply passion for Web Development, Software Engineering, and Graphic Design.  
 - 📚 Always eager to learn and contribute in every possible way.  
 - 💡 I don’t believe in obstacles; I believe in opportunities.
+
+## Tech Stacks That I Use
+
+<details>
+<summary>Github Stats</summary>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanrifandi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="raihanrifandi's Github Stats">
+</details>
