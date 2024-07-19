@@ -17,7 +17,10 @@ Programmer focusing on web development, utilizing various tools, frameworks, and
 - 📚 Always eager to learn and contribute in every possible way.  
 - 💡 I don’t believe in obstacles; I believe in opportunities.
 
-## Tech Stacks That I Use
+## 🧑‍💻 Tech Stacks That I Use
+
+## 🎯 Hit Me Up!
+
 
 <details>
 <summary>Github Stats</summary>
