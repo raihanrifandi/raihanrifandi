@@ -1,7 +1,9 @@
 <!-- Heading -->
-<h3 align="center">
+<h3>
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+Bold&size=18&pause=1000&color=F7F7F7&background=15151500&center=true&width=435&height=45&lines=Hello+World!+I'm+Raihan+Rifandi;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 </h3>
+
+##
 
 [![Gmail Badge](https://img.shields.io/badge/-raihanrifandi73@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:raihanrifandi73@gmail.com)](mailto:raihanrifandi73@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-raihanrifandi-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raihan-rifandi-a3bb82280/)
