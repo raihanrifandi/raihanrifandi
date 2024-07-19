@@ -9,7 +9,7 @@
 
 <!-- Body -->
 
-## Bit of Introduction
+## 📌 Introduction
 Programmer focusing on web development, utilizing various tools, frameworks, and libraries for both front-end and back-end. I pay attention to every little detail in order to create top-notch-quality products. 
 
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Get to know me
