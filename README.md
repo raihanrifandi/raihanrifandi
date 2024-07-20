@@ -18,9 +18,13 @@ Programmer focusing on web development, utilizing various tools, frameworks, and
 - 💡 I don’t believe in obstacles; I believe in opportunities.
 
 ## 🧑‍💻 Tech Stacks
-Here are some of the key technologies I currently use or have previously worked with:
+Here are some of the technologies I currently use or have previously worked with:
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+|--|--|--|
+
 
 ## 🎯 Hit Me Up!
+Got anything in mind? Don't hesitate to reach me through:
 - 📧 Email: [raihanrifandi73@gmail.com](mailto:raihanrifandi73@gmail.com)
 - 🔗 LinkedIn: [Raihan Rifandi](https://www.linkedin.com/in/raihan-rifandi-a3bb82280/)
 
