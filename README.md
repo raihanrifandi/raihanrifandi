@@ -17,10 +17,12 @@ Programmer focusing on web development, utilizing various tools, frameworks, and
 - 📚 Always eager to learn and contribute in every possible way.  
 - 💡 I don’t believe in obstacles; I believe in opportunities.
 
-## 🧑‍💻 Tech Stacks That I Use
+## 🧑‍💻 Tech Stacks
+Here are some of the key technologies I currently use or have previously worked with:
 
 ## 🎯 Hit Me Up!
-
+- 📧 Email: [raihanrifandi73@gmail.com](mailto:raihanrifandi73@gmail.com)
+- 🔗 LinkedIn: [Raihan Rifandi](https://www.linkedin.com/in/raihan-rifandi-a3bb82280/)
 
 <details>
 <summary>Github Stats</summary>
