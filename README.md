@@ -19,8 +19,8 @@ Programmer focusing on web development, utilizing various tools, frameworks, and
 
 ## 🧑‍💻 Tech Stacks
 Here are some of the technologies I currently use or have previously worked with:
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="HTML" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="HTML" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img title="Kotlin" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">
+|--|--|--|--|--|--|--|
 
 
 ## 🎯 Hit Me Up!
