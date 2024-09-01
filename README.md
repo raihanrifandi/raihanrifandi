@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raihanrifandi.raihanrifandi)
 
 <!-- Body -->
-## <img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBkNnUyaXk1cXZzM3RyeDZqMGRsbGM4bmljbWlwaTdjbGYzaTgwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width = 32px style="position: absolute; top: 32px; left: 0; z-index: 1;"> Introduction
+## 📌 Introduction
 Programmer focusing on web development, utilizing various tools, frameworks, and libraries for both front-end and back-end. I pay attention to every little detail in order to create top-notch-quality products. 
 
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Get to know me
