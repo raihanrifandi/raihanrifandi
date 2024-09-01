@@ -32,7 +32,8 @@ Got anything in mind? Don't hesitate to reach me through:
 - 📧 Email: [raihanrifandi73@gmail.com](mailto:raihanrifandi73@gmail.com)
 - 🔗 LinkedIn: [Raihan Rifandi](https://www.linkedin.com/in/raihan-rifandi-a3bb82280/)
 
-https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif
+<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" alt="octocat">
+
 
 <details>
 <summary>Github Stats</summary>
