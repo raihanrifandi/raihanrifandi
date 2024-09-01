@@ -32,6 +32,8 @@ Got anything in mind? Don't hesitate to reach me through:
 - 📧 Email: [raihanrifandi73@gmail.com](mailto:raihanrifandi73@gmail.com)
 - 🔗 LinkedIn: [Raihan Rifandi](https://www.linkedin.com/in/raihan-rifandi-a3bb82280/)
 
+https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif
+
 <details>
 <summary>Github Stats</summary>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=raihanrifandi&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="raihanrifandi's Github Stats">
