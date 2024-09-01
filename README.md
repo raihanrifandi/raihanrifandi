@@ -1,4 +1,5 @@
 <!-- Heading -->
+<img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBkNnUyaXk1cXZzM3RyeDZqMGRsbGM4bmljbWlwaTdjbGYzaTgwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif" width = 30px>
 <h3 align="center">
      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins+Bold&size=18&pause=1000&color=F7F7F7&background=15151500&center=true&width=435&height=45&lines=Hello+World!+I'm+Raihan+Rifandi;Welcome+to+my+Github+Profile" alt="Typing SVG" /></a>
 </h3>
