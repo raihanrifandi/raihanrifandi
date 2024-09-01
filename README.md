@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=raihanrifandi.raihanrifandi)
 
 <!-- Body -->
-<img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBkNnUyaXk1cXZzM3RyeDZqMGRsbGM4bmljbWlwaTdjbGYzaTgwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif"
+<img src ="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTBkNnUyaXk1cXZzM3RyeDZqMGRsbGM4bmljbWlwaTdjbGYzaTgwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UQ1EI1ML2ABQdbebup/giphy.gif">
 ## 📌 Introduction
 Programmer focusing on web development, utilizing various tools, frameworks, and libraries for both front-end and back-end. I pay attention to every little detail in order to create top-notch-quality products. 
 
@@ -23,7 +23,7 @@ Here are some of the technologies I currently use or have previously worked with
 <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="HTML" title="HTML" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">|<img alt="CSS" title="CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">|<img title="Java" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">|<img title="Kotlin" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png">|<img title="C++" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/cpp/cpp.png">|<img title="Latex" alt="Latex" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/latex/latex.png">|<img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png">
 |--|--|--|--|--|--|--|--|--|--|--|
 
-<img title="Windows" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">|<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/ubuntu.png">
+<img title="Windows" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">|<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
 |--|--|
 
 
