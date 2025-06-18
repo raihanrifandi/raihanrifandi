@@ -37,7 +37,9 @@ Got anything in mind? Don't hesitate to reach me through:
 
 <details>
 <summary>Github Stats</summary>
-![](https://github-readme-stats.vercel.app/api?username=raihanrifandi&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=raihanrifandi&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrifandi&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<img src="https://github-readme-stats.vercel.app/api?username=raihanrifandi&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true" alt="Raihan's GitHub Stats" />  
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raihanrifandi&theme=synthwave&hide_border=false" alt="Raihan's GitHub Streak" />  
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrifandi&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Raihan's Top Languages" />
 </details>
