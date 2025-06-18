@@ -18,7 +18,7 @@ Programmer focusing on web development, utilizing various tools, frameworks, and
 - 💡 I don’t believe in obstacles; I believe in opportunities.
 
 ## 🧑‍💻 Tech Stacks
-Here are some of the technologies I currently use or have previously worked with:
+Here are some of the technologies I currently use or have previously worked with: </br>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white" />
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" />
@@ -43,11 +43,6 @@ Here are some of the technologies I currently use or have previously worked with
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" />
-
-<img title="Windows" alt="Windows" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png">|<img title="Linux" alt="Linux" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
-|--|--|
-
-
 
 ## 🎯 Hit Me Up!
 Got anything in mind? Don't hesitate to reach me through:
