@@ -62,9 +62,3 @@ Got anything in mind? Don't hesitate to reach me through:
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raihanrifandi&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact" alt="Raihan's Top Languages" />
 </details>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raihanrifandi/raihanrifandi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raihanrifandi/raihanrifandi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/raihanrifandi/raihanrifandi/output/pacman-contribution-graph.svg">
-</picture>
