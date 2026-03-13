@@ -20,10 +20,6 @@ Programmer focusing on web development, utilizing various tools, frameworks, and
 ## 🧑‍💻 Tech Stacks
 Here are some of the technologies I currently use or have previously worked with: </br> </br>
 <p>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=plastic&logo=kotlin&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=plastic&logo=openstack&logoColor=white" style="margin: 4px;" />
@@ -37,6 +33,7 @@ Here are some of the technologies I currently use or have previously worked with
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" style="margin: 4px;" />
+  <img src="https://img.shields.io/badge/postgresql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" style="margin: 4px;" />
