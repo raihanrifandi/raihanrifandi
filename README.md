@@ -33,7 +33,6 @@ Here are some of the technologies I currently use or have previously worked with
   <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/postgresql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white" style="margin: 4px;" />
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" style="margin: 4px;" />
