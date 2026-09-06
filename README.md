@@ -12,7 +12,7 @@
 Programmer focusing on web development, utilizing various tools, frameworks, and libraries for both front-end and back-end. I pay attention to every little detail in order to create top-notch-quality products. 
 
 ## <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Get to know me
-- 💻 I'm a senior year Computer Science student at The University of Lampung in Indonesia.  
+- 💻 I'm a Bachelor of Computer Science from The University of Lampung in Indonesia.  
 - 🌟 I have a deeply passion for Web Development, Software Engineering, and Graphic Design.  
 - 📚 Always eager to learn and contribute in every possible way.  
 - 💡 I don’t believe in obstacles; I believe in opportunities.
